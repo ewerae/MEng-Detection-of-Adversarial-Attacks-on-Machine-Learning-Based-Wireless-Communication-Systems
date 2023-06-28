@@ -20,7 +20,7 @@ White Box Attack -
 The synthetic dataset has a range of SNR values, it has a lot of data points.
 This attack in general is very computationally expensive, and is very prone to crashing. Hence, only some SNR values are used for experimentation. The main idea is to run each data point through the attack and output the softmax values and then conduct statistical analysis upon it by using the metrics and classifiers file.
 
-The exhausting part of this process is that the attack itself is time consuming, 2 hours to complete 500 data points, when there is 1000 roughly per modulation type per SNR value.
+The exhausting part of this process is that the attack itself is time consuming, 2 hours to complete 500 data points, when there are roughly 1000 data points per modulation type per SNR value.
 
 
 Black Box Attack - 
