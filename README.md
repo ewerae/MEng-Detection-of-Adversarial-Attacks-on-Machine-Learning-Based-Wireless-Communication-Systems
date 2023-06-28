@@ -1,4 +1,4 @@
-# Detection-of-Adversarial-Attacks-on-Machine-Learning-Based-Wireless-Communications
+# Detection-of-Adversarial-Attacks-on-Machine-Learning-Based-Wireless-Communication-Systems
 Repository of the code for my university research paper.
 
 
