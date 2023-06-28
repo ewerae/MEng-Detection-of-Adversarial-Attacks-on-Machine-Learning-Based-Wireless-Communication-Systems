@@ -1,5 +1,5 @@
 # Detection-of-Adversarial-Attacks-on-Machine-Learning-Based-Wireless-Communication-Systems
-Repository of the code for my university research paper 2022 - 2023 (attached in the repository).
+Repository of the code for my university research paper 2022 - 2023 (attached in the repository - I forget if I signed something that says I can't show my paper, oh well).
 
 Note - The objective of this code was not to display the optimisation of such a python project, but to produce results whilst I was in the depths of my studies.
 
@@ -30,7 +30,9 @@ Much faster than the white box attack, should see results in an hour or so, mayb
 
 Produces UAPs (Universal Adversarial Perturbation) - these are based upon  data points randomly chosen and then obtaining their gradient direction. Singular value decomposition is applied to find the first principal direction. Pretty interesting. ICM, CCM and MIX are the groups the data points are chosen to create the UAP from.
 
-Further information is on the paper itself, this little README is just a guide.
+Further information is on the paper itself. 
+
+Hopefully I'll remember the process of how I did this in the years to come, hopefully.
 
 
 
