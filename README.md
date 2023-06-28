@@ -5,6 +5,7 @@ Influenced and adversarial attacks produced by Meysam Sadeghi - https://github.c
 
 Relies upon several files:
 1) The 2016 synthetic radio signal dataset produced by DeepSig - https://www.deepsig.ai/datasets
+2) The output of the model
 
 
 
