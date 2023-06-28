@@ -3,7 +3,7 @@ Repository of the code for my university research paper 2022 - 2023 (attached in
 
 Note - The objective of this code was not to display the optimisation of such a python project, but to produce results whilst I was in the depths of my studies.
 
-This is for future reference, memory and examples of my work.  
+This is for future reference and memory.  
 
 Paper influenced by and adversarial attacks produced by Meysam Sadeghi - https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems/tree/master/Adv_Attack_Modulation_Classification
 
