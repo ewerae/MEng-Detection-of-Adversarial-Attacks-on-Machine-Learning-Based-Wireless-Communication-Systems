@@ -5,7 +5,7 @@ Note - The objective of this code was not to display the optimisation of such a 
 
 This is for future reference, memory and examples of my work.  
 
-Influenced and adversarial attacks produced by Meysam Sadeghi - https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems/tree/master/Adv_Attack_Modulation_Classification
+Paper influenced by and adversarial attacks produced by Meysam Sadeghi - https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems/tree/master/Adv_Attack_Modulation_Classification
 
 These were run on pycharm with all the required libraries downloaded - Tensorflow 2.0, Keras, Numpy etc.
 
