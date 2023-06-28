@@ -1,7 +1,9 @@
 # Detection-of-Adversarial-Attacks-on-Machine-Learning-Based-Wireless-Communication-Systems
 Repository of the code for my university research paper 2022 - 2023 (attached in the repository).
 
-Note - This code is not optimised in any sort, the focus was to produce results for my chosen topic. 
+Note - The objective of this code was not to display the optimisation of such a python project, but to produce results whilst I was in the depths of my studies.
+
+This is for future reference, memory and examples of my work.  
 
 Influenced and adversarial attacks produced by Meysam Sadeghi - https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems/tree/master/Adv_Attack_Modulation_Classification
 
