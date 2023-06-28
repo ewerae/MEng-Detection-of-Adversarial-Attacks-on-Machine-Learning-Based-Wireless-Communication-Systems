@@ -16,7 +16,7 @@ Relies upon several files:
 4) And probably several more, but each file has comments describing the process and the paper is there to help.
 
 
-The detection method primarily focuses on the softmax values as there are exploitations learned from this layer/
+The detection method primarily focuses on the softmax values as there are exploitations learned from this layer.
 
 White Box Attack -
 The synthetic dataset has a range of SNR values, it has a lot of data points.
