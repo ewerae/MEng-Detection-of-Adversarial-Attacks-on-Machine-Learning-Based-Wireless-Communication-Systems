@@ -1,5 +1,5 @@
 # Detection-of-Adversarial-Attacks-on-Machine-Learning-Based-Wireless-Communication-Systems
-Repository of the code for my university research paper 2022 - 2023 (attached in the repository - I forget if I signed something that says I can't show my paper, oh well).
+Repository of the code for my university research paper 2022 - 2023.
 
 Note - The objective of this code was not to display the optimisation of such a python project, but to produce results whilst I was in the depths of my studies.
 
