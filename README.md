@@ -30,7 +30,6 @@ Much faster than the white box attack, should see results in an hour or so, mayb
 
 Produces UAPs (Universal Adversarial Perturbation) - these are based upon  data points randomly chosen and then obtaining their gradient direction. Singular value decomposition is applied to find the first principal direction. Pretty interesting. ICM, CCM and MIX are the groups the data points are chosen to create the UAP from.
 
-Further information is on the paper itself. 
 
 Hopefully I'll remember the process of how I did this in the years to come, hopefully.
 
