@@ -13,7 +13,7 @@ Relies upon several files:
 1) The 2016 synthetic radio signal dataset produced by DeepSig - https://www.deepsig.ai/datasets
 2) The output of the model.py file to use in subsequent detection methods.
 3) The reliance of the "valid indexes" for different SNR values in the white box detection, and black box detection.
-4) And probably several more, but each file has comments describing the process and the paper is there to help.
+4) And probably several more, but each file has comments describing the process. I believe...
 
 
 The detection method primarily focuses on the softmax values as there are exploitations learned from this layer.
