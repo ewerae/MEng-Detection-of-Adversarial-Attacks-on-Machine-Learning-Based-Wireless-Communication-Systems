@@ -7,14 +7,12 @@ This is for future reference and memory.
 
 Paper influenced by and adversarial attacks produced by Meysam Sadeghi - https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems/tree/master/Adv_Attack_Modulation_Classification
 
-These were run on pycharm with all the required libraries downloaded - Tensorflow 2.0, Keras, Numpy etc.
+Preferred IDE: Pycharm
 
 Relies upon several files:
 1) The 2016 synthetic radio signal dataset produced by DeepSig - https://www.deepsig.ai/datasets
 2) The output of the model.py file to use in subsequent detection methods.
 3) The reliance of the "valid indexes" for different SNR values in the white box detection, and black box detection.
-4) And probably several more, but each file has comments describing the process. I believe...
-
 
 The detection method primarily focuses on the softmax values as there are exploitations learned from this layer.
 
@@ -28,7 +26,7 @@ The ideal amount of data input's adversarially attacked without crashing for mys
 Black Box Attack - 
 Much faster than the white box attack, should see results in an hour or so, maybe less. 
 
-Produces UAPs (Universal Adversarial Perturbation) - these are based upon  data points randomly chosen and then obtaining their gradient direction. Singular value decomposition is applied to find the first principal direction. Pretty interesting. ICM, CCM and MIX are the groups the data points are chosen to create the UAP from.
+Produces UAPs (Universal Adversarial Perturbation) - these are based upon  data points randomly chosen and then obtaining their gradient direction. Singular value decomposition is applied to find the first principal direction. ICM, CCM and MIX are the groups the data points are chosen to create the UAP from.
 
 
 Hopefully I'll remember the process of how I did this in the years to come, hopefully.
